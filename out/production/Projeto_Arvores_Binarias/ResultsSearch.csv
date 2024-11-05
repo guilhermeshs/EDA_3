@@ -1,0 +1,10 @@
+Algoritmo,Base de Dados,Base de Dados Pesquisa,Tempo
+Splay,3m desordenados,busca_1m,8.284664004759149E7
+Splay,3m ordenados,busca_1m,1175836.3634370696
+Splay,3m ordenadosF,busca_1m,1.2568494959348947E8
+Binary,3m desordenados,busca_1m,2080193.870234247
+Binary,3m ordenados,busca_1m,1639231.1143320566
+Binary,3m ordenadosF,busca_1m,1725506.4361390069
+rubro-negra,3m desordenados,busca_1m,232214.097893139
+rubro-negra,3m ordenados,busca_1m,225642.00078295582
+rubro-negra,3m ordenadosF,busca_1m,243167.59307677764

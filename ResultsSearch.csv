@@ -1,0 +1,14 @@
+Algoritmo,Base de Dados,Base de Dados Pesquisa,Tempo
+BST,3m desordenados,busca_1m,160884449,310485542
+BST,3m ordenados,busca_1m,17727327,097657153
+BST,3m ordenadosF,busca_1m,16044440,9912429585
+AVL,3m desordenados,busca_1m,45802014,5712454906
+AVL,3m ordenados,busca_1m,37423080,8528567543
+AVL,3m ordenadosF,busca_1m,39814471,9679081487
+Rubro-Negra,3m desordenados,busca_1m,603129861,0317831824
+Rubro-Negra,3m ordenados,busca_1m,581489555,4820728425
+Rubro-Negra,3m ordenadosF,busca_1m,534018388,810395991
+SPLAY,3m desordenados,busca_1m,12,979703082085673E7
+SPLAY,3m ordenados,busca_1m,212299737,9518230467
+SPLAY,3m ordenadosF,busca_1m,1,1576857837551136E8
+
